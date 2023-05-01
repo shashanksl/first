@@ -1,0 +1,6 @@
+auto increment - for new value in id
+unique 
+not null
+create table
+insert into
+values -- to add data into a table
